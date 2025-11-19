@@ -16,3 +16,9 @@ Hier kann später zusätzlicher Inhalt stehen.
 ```javascript
 console.log("Marko sagt Hallo!");
 ```
+
+### Meine Aufgabenliste aus Step 4
+
+- [x] Markdown lernen
+- [ ] GitHub Pages ausprobieren
+- [ ] Mathe lernen 😄
