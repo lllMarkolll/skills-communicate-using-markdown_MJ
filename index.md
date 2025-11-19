@@ -11,3 +11,8 @@ Hier kann später zusätzlicher Inhalt stehen.
 ### Und natürlich eine Yakto-Katze
 
 ![Bild von YaktoCat](https://octodex.github.com/images/yaktocat.png)
+
+### Codeblock aus Step 3
+```javascript
+console.log("Marko sagt Hallo!");
+```
